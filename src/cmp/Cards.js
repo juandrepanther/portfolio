@@ -51,6 +51,30 @@ function Cards() {
             label='Office'
             path='products'
           />
+          <CardItem
+            src={img9}
+            text='Team are key of success'
+            label='Office'
+            path='products'
+          />
+          <CardItem
+            src={img9}
+            text='Team are key of success'
+            label='Office'
+            path='products'
+          />
+          <CardItem
+            src={img9}
+            text='Team are key of success'
+            label='Office'
+            path='products'
+          />
+          <CardItem
+            src={img9}
+            text='Team are key of success'
+            label='Office'
+            path='products'
+          />
         </div>
       </div>
     </div>

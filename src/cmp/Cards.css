@@ -11,7 +11,7 @@
     align-items: center;
     max-width: 1120px;
     width: 90%;
-    margin: 0 auto;
+    margin: 0px auto;
   }
   
   .cards__wrapper {
@@ -26,7 +26,7 @@
   .cards__item {
     display: flex;
     flex: 1;
-    margin: 0 1rem;
+    margin: 10px 1rem;
     border-radius: 10px;
   }
   
