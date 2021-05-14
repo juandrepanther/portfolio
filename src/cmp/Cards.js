@@ -25,7 +25,7 @@ function Cards() {
             src={img5}
             text='Explore business synergy'
             label='Office'
-            path='services'
+            path='products'
           />
           <CardItem
             src={img6}
