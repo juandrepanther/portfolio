@@ -18,38 +18,38 @@ function Cards() {
           <CardItem
             src={img4}
             text='Explore business synergy'
-            label='Office'
+            label='Airlines'
             path='services'
           />
           <CardItem
             src={img5}
-            text='Explore business synergy'
-            label='Office'
+            text='Only this makes you better'
+            label='Smiles'
             path='products'
           />
           <CardItem
             src={img6}
-            text='Explore business synergy'
+            text='Keep always Calm'
             label='Office'
             path='services'
           />
           <CardItem
             src={img7}
-            text='Explore business synergy'
-            label='Office'
-            path='services'
+            text='No time to wait'
+            label='Jobs Carriers'
+            path='products'
           />
           <CardItem
             src={img8}
-            text='Explore business synergy'
-            label='Office'
+            text='Just look forward'
+            label='Airlines'
             path='services'
           />
           <CardItem
             src={img9}
-            text='Explore business synergy'
+            text='Team are key of success'
             label='Office'
-            path='services'
+            path='products'
           />
         </div>
       </div>

@@ -15,7 +15,7 @@ const Button = ({ children, type, onCLick, buttonStyle, buttonSize }) => {
     <Link to='/services' className='btn-mobile'>
       <button
         className={`btn ${checkButtonStyle} ${checkButtonSize}`}
-        onCLick={onCLick}
+        onClick={onCLick}
         type={type}>
         {children}
       </button>

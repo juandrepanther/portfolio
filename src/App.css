@@ -8,7 +8,7 @@
   .home,
   .services,
   .products,
-  .sign-up {
+  .sign-up, .noPage {
     display: flex;
     height: 90vh;
     align-items: center;
@@ -41,4 +41,12 @@
     background-repeat: no-repeat;
     color: #fff;
     font-size: 100px;
+  }
+
+  .noPage {
+    background-image: url('./img/noPage.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(0, 153, 255);
   }
