@@ -22,7 +22,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
-    font-size: 100px;
+    font-size: 60px;
   }
   
   .products {
@@ -31,17 +31,9 @@
     background-size: fill;
     background-repeat: no-repeat;
     color: #fff;
-    font-size: 100px;
+    font-size: 60px;
   }
   
-  .sign-up {
-    background-image: url('./img/3.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    color: #fff;
-    font-size: 100px;
-  }
 
   .noPage {
     background-image: url('./img/noPage.png');
