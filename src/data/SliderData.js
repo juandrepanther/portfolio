@@ -11,15 +11,15 @@ import img10 from '../img/houses/10h.jpg'
 
 export const SliderData = [
 {
-    title: 'Luxary',
-    price: '100 EUR',
+    title: 'LUXARY HOUSE FOR EMPLOYERS',
+    price: '1000000 EUR',
     path: '/homes',
     label: 'View Home',
     image: img1,
     alt: 'House'    
 },
 {
-    title: 'Luxary',
+    title: 'JUST FOR FUN HOUSE',
     price: '100 EUR',
     path: '/homes',
     label: 'View Home',
@@ -27,7 +27,7 @@ export const SliderData = [
     alt: 'House'    
 },
 {
-    title: 'Luxary',
+    title: 'FUTURE CUSTOM PENT-HOUSE',
     price: '100 EUR',
     path: '/homes',
     label: 'View Home',
@@ -35,7 +35,7 @@ export const SliderData = [
     alt: 'House'    
 },
 {
-    title: 'Luxary',
+    title: 'NOTHING ELSE MATTERS',
     price: '100 EUR',
     path: '/homes',
     label: 'View Home',
@@ -43,7 +43,7 @@ export const SliderData = [
     alt: 'House'    
 },
 {
-    title: 'Luxary',
+    title: 'WHAT YOU ARE WAITING FOR?',
     price: '100 EUR',
     path: '/homes',
     label: 'View Home',
@@ -51,7 +51,7 @@ export const SliderData = [
     alt: 'House'    
 },
 {
-    title: 'Luxary',
+    title: 'BUSINESS HOUSES FOR ANY KIND OF CHOISE',
     price: '100 EUR',
     path: '/homes',
     label: 'View Home',
@@ -59,7 +59,7 @@ export const SliderData = [
     alt: 'House'    
 },
 {
-    title: 'Luxary',
+    title: 'TOP LEVEL PENT HOUSE WHITE',
     price: '100 EUR',
     path: '/homes',
     label: 'View Home',
@@ -67,7 +67,7 @@ export const SliderData = [
     alt: 'House'    
 },
 {
-    title: 'Luxary',
+    title: 'UNBELIEVABLE PRICE & GO HOUSE',
     price: '100 EUR',
     path: '/homes',
     label: 'View Home',
@@ -75,16 +75,16 @@ export const SliderData = [
     alt: 'House'    
 },
 {
-    title: 'Luxary',
-    price: '100 EUR',
+    title: 'HIGH QUALITY ENVIRONMENT',
+    price: '44466999 EUR',
     path: '/homes',
     label: 'View Home',
     image: img9,
     alt: 'House'    
 },
 {
-    title: 'Luxary',
-    price: '100 EUR',
+    title: 'BEST DESIGN PENT HOUSE FOR PARTIES',
+    price: '100 000 EUR',
     path: '/homes',
     label: 'View Home',
     image: img10,
