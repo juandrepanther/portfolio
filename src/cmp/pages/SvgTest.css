@@ -1,0 +1,9 @@
+.svgAnime {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Group {
+    stroke:rgb(78, 78, 78);
+    stroke-width: 10px;
+} 
