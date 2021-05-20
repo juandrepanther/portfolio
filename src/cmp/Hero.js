@@ -126,12 +126,9 @@ function Hero({slides}) {
         }
     }, [current, length])
 
-    const nextSlide =() => {
-        setCurrent(current === length - 1 ? 0 : current + 1)
-        /*if last slide is reached (length -1) then set to start slide 0
-        otherwise just increment value and switch to next slide
-        */
-    }
+    const nextSlide =() => setCurrent(current === length - 1 ? 0 : current + 1)
+        
+    
     const prevSlide =() => setCurrent(current === 0 ? current - 1 : current -1)
 
     if (!Array.isArray(slides) || slides.length <= 0) {
