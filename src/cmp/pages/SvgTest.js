@@ -6,11 +6,13 @@ import Vivus from 'vivus'
 class SvgTest extends Component {
     componentDidMount() {
         new Vivus('gears', {
+            type: 'sync',
             duration: 200, 
             file: svg1,
             animTimingFunction: Vivus.EASE_OUT
         })
         new Vivus('man', {
+            type: 'sync',
             duration: 200, 
             file: svg2,
             animTimingFunction: Vivus.EASE_OUT
